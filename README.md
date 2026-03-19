@@ -249,21 +249,6 @@ currently_building: "AI-Powered Real-Time Collaborative Platforms ⚡"
 
 ---
 
-## 🎮 Fun — Play a Quick Game!
-
-<div align="center">
-
-> **Tic Tac Toe** — Challenge a friend while you browse my profile 😄
-
-[![Play Tic Tac Toe](https://img.shields.io/badge/🎮%20Play%20Tic%20Tac%20Toe-Click%20Here-FF6B6B?style=for-the-badge)](https://tic-tac-toe-github-readme.vercel.app/api?username=Bhatirishabhdevsingh)
-
-> **Snake Game** — Classic snake in your README!
-
-[![Play Snake](https://img.shields.io/badge/🐍%20Play%20Snake-Click%20Here-00C7B7?style=for-the-badge)](https://snake-readme-game.vercel.app/?username=Bhatirishabhdevsingh)
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -323,17 +308,7 @@ currently_building: "AI-Powered Real-Time Collaborative Platforms ⚡"
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhatirishabhdevsingh/Bhatirishabhdevsingh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhatirishabhdevsingh/Bhatirishabhdevsingh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Bhatirishabhdevsingh/Bhatirishabhdevsingh/output/github-snake.svg" />
-</picture>
-</div>
-
----
 
 ## 💡 Dev Quote of the Day
 
