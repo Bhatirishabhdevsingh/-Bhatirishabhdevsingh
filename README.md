@@ -274,11 +274,6 @@ currently_building: "AI-Powered Real-Time Collaborative Platforms ⚡"
 | 🏆 Hackathon Top 20 (among 3000+) | Feb 2025 | Intra University Hackathon |
 | ♟️ 1st Position in Chess (among 1000+) | Dec 2023 | College Game Mahotsav, GD Memorial |
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bhatirishabhdevsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
 
 ---
 
@@ -337,6 +332,6 @@ currently_building: "AI-Powered Real-Time Collaborative Platforms ⚡"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,60:1a1060,100:0a0a1a&height=130&section=footer&animation=fadeIn" />
 
-<sub>⚡ Crafted with ❤️ by <b>Rishabhadev Singh</b> | MCA @ LPU Punjab | Full Stack • AI • Cybersecurity</sub>
+<sub>⚡ Crafted by <b>Rishabhadev Singh</b> | MCA @ LPU Punjab | Full Stack • AI • Cybersecurity</sub>
 
 </div>
